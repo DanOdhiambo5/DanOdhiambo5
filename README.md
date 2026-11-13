@@ -1,4 +1,4 @@
-# Hi, I'm Dan 👋
+# Hi, I'm Daniel 👋
 
 I'm a beginner software developer learning to build practical applications and solve real-world problems.
 
